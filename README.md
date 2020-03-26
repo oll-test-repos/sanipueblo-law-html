@@ -1,3 +1,3 @@
 # sanipueblo-law-html
 
-Test Pueblo of San Ildefonso xml-codified repository
+Test Pueblo of San Ildefonso html repository
