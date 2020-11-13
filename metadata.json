@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2020-11-13",
-      "codified-date": "2019-12-23",
+      "codified-date": "2020-05-13",
       "platform": {
         "reproducible": "false",
         "version": "2.0.1"
@@ -13,7 +13,7 @@
           "name": "sanipueblo/law-xml"
         },
         {
-          "commit": "06a2ef892b8beb33d2b8a49a30a970605e47a2ba",
+          "commit": "cea882e078edfc4099ced922e63753888aad3fe3",
           "name": "sanipueblo/law-xml-codified"
         }
       ]
